@@ -6,9 +6,9 @@
 - :computer: Passionate about JS, Node and all things "web"
 - :de: Based near Bremen, Germany
 - :office: Senior Frontend Developer [@kellerkinderDE](https://github.com/kellerkinderDE) (Full-Remote)
-- :notes: Musician (Guitar && Singing) :wave:
+- :notes: Musician (Guitar && Singing)
 
-## Technologies I use
+## Technologies I Mostly Use
 - JavaScript, TypeScript, CSS
 - C#
 - PHP
