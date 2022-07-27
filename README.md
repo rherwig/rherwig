@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hey there, I am Rico 👋
 
-<!--
-**rherwig/rherwig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Twitter URL](https://img.shields.io/twitter/url?color=1ca0f1&label=rherwig4711&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Frherwig4711)
+![LinkedIn URL](https://img.shields.io/twitter/url?color=0A66C2&label=Contact%20me&logo=linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frico-herwig-3068b7169%2F%3Flipi%3Durn%253Ali%253Apage%253Ad_flagship3_feed%253B7TnjG26iS2WJDaltvsMfPg%253D%253D)
 
-Here are some ideas to get you started:
+- :computer: Passionate about JS, Node and all things "web"
+- :de: Based near Bremen, Germany
+- :office: Senior Frontend Developer @kellerkinderDE (Full-Remote)
+- :notes: Musician (Guitar && Singing) :wave:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies I use
+- JavaScript, TypeScript, CSS
+- C#
+- PHP
+- Vue, Nuxt
+- React
+
+## Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rherwig&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
